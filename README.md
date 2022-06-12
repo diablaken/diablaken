@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm diablaKen</h1>
-<h3 align="center">Some one from womewhere ~ who basically like everything on IT</h3>
+<h3 align="center">Some one from somewhere ~ who basically like everything on IT</h3>
 
 - 🔭 I’m currently working on **Front end project**
 
